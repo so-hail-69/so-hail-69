@@ -2,7 +2,7 @@
 
 I'm Sohail Khurrana, and I'm a Data Engineer and Business Intelligence Analyst.
 
-## ⚡ Technologies
+<!--## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -14,8 +14,7 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) -->
 
 
 # 💻 Tech Stack:
