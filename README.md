@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**so-hail-69/so-hail-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sohail Khurrana, and I'm a Data Engineer and Business Intelligence Analyst.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are some of the technologies and tools that I work with:
+
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/-python-2b5b84?style=flat-square&logo=powerbi&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
