@@ -1,4 +1,3 @@
-
 ### Hello there 👋
 
 I'm Sohail Khurrana, and I'm a Data Engineer and Business Intelligence Analyst.
