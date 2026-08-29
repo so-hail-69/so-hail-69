@@ -1,3 +1,4 @@
+
 ### Hello there 👋
 
 I'm Sohail Khurrana, and I'm a Data Engineer and Business Intelligence Analyst.
@@ -31,6 +32,4 @@ These are some of the technologies and tools that I work with:
 [![](https://komarev.com/ghpvc/?username=so-hail-69&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
